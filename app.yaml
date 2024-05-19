@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: tonidy-docusaurus-test-1
+owner: tonidy
+package: .
