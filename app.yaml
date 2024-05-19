@@ -1,4 +1,4 @@
 kind: wasmer.io/App.v0
-name: tonidy-docusaurus-test-1
+name: doc-test1
 owner: tonidy
 package: .
